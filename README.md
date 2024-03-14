@@ -2,7 +2,7 @@
 
 <div>
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=NicksonIndiani&show_icons=true&theme=algolia"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicksonIndiani&layout=compact&theme=algolia"/>
+<img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicksonIndiani&layout=compact&theme=algolia"/>
 </div>
 
 <div style="display: inline_block"><br>
