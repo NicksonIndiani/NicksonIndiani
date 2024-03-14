@@ -1,7 +1,7 @@
 ## Olá meu nome é Nickson, sou analista de dados e desenvolvedor python!
 
 <div>
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=NicksonIndiani&show_icons=true&theme=algolia"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=NicksonIndiani&show_icons=true&theme=algolia&show_icons=true"/>
 <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicksonIndiani&layout=compact&theme=algolia"/>
 </div>
 
