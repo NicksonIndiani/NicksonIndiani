@@ -6,8 +6,8 @@ Sou reconhecido pela minha flexibilidade, habilidades técnicas e sou movido por
 ##
 
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=NicksonIndiani&show_icons=true&theme=algolia&show_icons=true&hide=prs,issues"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicksonIndiani&layout=compact&theme=algolia"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=NicksonIndiani&show_icons=true&theme=algolia&show_icons=true&hide=prs,issues"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicksonIndiani&layout=compact&theme=algolia"/>
 </div>
 
 ## Tecnologias que uso no meu dia a dia!!
