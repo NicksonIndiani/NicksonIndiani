@@ -1,8 +1,13 @@
 ## Olá meu nome é Nickson, sou analista de dados e desenvolvedor python!
 
-Sou um profissional com 2 anos de experiência na área de TI. Durante esse período, trabalhei com importação, exportação e análise de dados integrados ao sistema SAP, contribuindo para a eficiência dos processos e a qualidade dos dados.
-Atualmente, estou cursando um bacharelado onde aprendo os fundamentos teóricos e práticos da área, incluindo algoritmos, estruturas de dados, sistemas operacionais, redes, inteligência artificial e ética de dados. Esta é uma área pela qual sou apaixonado e pretendo seguir carreira. Destaco minhas habilidades em Python, Machine Learning e MySQL Database, além de ter conhecimentos nos princípios básicos da inteligência artificial.
-Sou reconhecido pela minha flexibilidade, habilidades técnicas e sou movido por desafios. Se você estiver interessado em se conectar ou discutir possíveis colaborações, sinta-se à vontade para entrar em contato comigo!
+Profissional possui 2 anos de experiência na área de TI. Durante esse período, trabalhou com importação,
+exportação e análise de dados integrados ao sistema SAP, contribuindo para a eficiência dos processos e a
+qualidade dos dados.
+Atualmente, está focado em fundamentos teóricos e práticos da área, incluindo algoritmos, estruturas de
+dados, sistemas operacionais, redes e ética de dados. Destaca suas habilidades em Python, Machine Learning
+e MySQL Database, Metabase, Power BI, Bussiness Intelligence e além de ter conhecimentos nos uso
+otimizado da inteligência artificial.
+Profissional reconhecido pela sua flexibilidade, olhar análitico, habilidades técnicas e é movido por desafios.
 ##
 
 <div>
