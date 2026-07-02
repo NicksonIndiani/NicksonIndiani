@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-label="Nickson Indiani — AI/Data Engineer">
+  <defs>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#12171e" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.85" cy="0.3" r="0.5">
+      <stop offset="0%" stop-color="#39d353" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#39d353" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="round">
+      <rect width="1200" height="260" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="260" fill="#0d1117"/>
+    <rect width="1200" height="260" fill="url(#grid)"/>
+    <rect width="1200" height="260" fill="url(#glow)"/>
+    <rect width="1200" height="260" rx="10" fill="none" stroke="#21262d" stroke-width="2"/>
+
+    <text x="72" y="86" font-family="ui-monospace, 'Cascadia Code', 'SF Mono', Menlo, Consolas, monospace" font-size="13" letter-spacing="6" fill="#6e7681">// PROFILE</text>
+
+    <text x="70" y="146" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="600" letter-spacing="1.5" fill="#e6edf3">NICKSON INDIANI</text>
+
+    <text x="72" y="192" font-family="ui-monospace, 'Cascadia Code', 'SF Mono', Menlo, Consolas, monospace" font-size="16" fill="#6e7681">AI / DATA ENGINEER&#160;&#160;&#160;<tspan fill="#39d353">&#9679;</tspan>&#160;&#160;&#160;TAGSERVER&#160;&#160;//&#160;&#160;23.2107&#176;S 45.8858&#176;W</text>
+  </g>
+</svg>
